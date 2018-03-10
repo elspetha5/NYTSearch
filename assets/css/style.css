@@ -1,0 +1,12 @@
+.well {
+    min-height: 20px;
+    padding: 19px;
+    margin-bottom: 20px;
+    background-color: #ecf0f1;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+a {
+    color: #18bc9c;
+    text-decoration: none;
+}
